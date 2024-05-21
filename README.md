@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anis</h1>
-<h3 align="center">A backend developer from Beirut</h3>
+<h1 align="center">Hi 👋 everyone!</h1>
+<p> I'm Anis , a software developer with a passion for problem-solving and innovation. My journey into programming began at the age of 11 when I decided to create a website that generates random quotes for my English class. Since then, I've been captivated by the endless possibilities of coding and the joy of bringing new ideas to life.</p>
 
 - 🔭 I’m currently working on [videoshare_go](https://github.com/anishomsy/videoshare_go)
 
