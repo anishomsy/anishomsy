@@ -4,9 +4,6 @@
 - 🔭 I’m currently working on [videoshare_go](https://github.com/anishomsy/videoshare_go)
 
 - 🌱 I’m currently learning **Golang and vuejs**
-
-- 💬 Ask me about **Django**
-
 - ⚡ Fun fact **I can solve a rubik cube in under 30s**
 
 <h3 align="left">Connect with me:</h3>
